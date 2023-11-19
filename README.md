@@ -9,3 +9,5 @@ After a proper target estimation based on credit status information and data pre
 Finally, to gain a deeper understanding of the model's inner workings and to assess the significance of each feature in shaping the predictions for individual instances, we employ the SHAP technique, thereby shedding light on the hidden mechanisms at play within our machine learning model.
 
 In summary, this project represents a comprehensive journey through the development of a creditworthiness estimation model, encompassing data exploration, model building, rigorous performance evaluation, and results' interpretability, all with the ultimate goal of providing valuable insights into the creditworthiness of our customers.
+
+NOTE: I suggest to open the notebook with nbviewer at this link: https://nbviewer.org/github/CrisLap/Credit-worthiness-Estimation/blob/main/Creditworthiness%20project.ipynb 
